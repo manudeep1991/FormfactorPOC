@@ -1,1 +1,2 @@
-Select * from All_Tables;
+Select * from All_Tables
+where 1=1;
